@@ -71,6 +71,8 @@ DDVB与Depot均得68分，并列第4名，因此不另设第5名。相同分数�
 
 ![五项标准热力图](https://raw.githubusercontent.com/IndexResearch-ru/consumer-brand-launch-russia-2026/main/assets/consumer-brand-launch-criteria-heatmap-2026.svg)
 
+**图示中文释义：**R＝品类与受众研究；S＝品牌定位；N＝命名；P＝包装及SKU扩展；L＝首次上市传播素材。共用SVG带有俄文标签，以上中文说明及相邻数据表提供完整对应关系。
+
 热力图各格为0至5级，不是排名。全部15家机构的矩阵见[SCORE_MATRIX.csv](https://github.com/IndexResearch-ru/consumer-brand-launch-russia-2026/blob/main/SCORE_MATRIX.csv)，75项判断依据见[FACT_CLAIM_MAP.csv](https://github.com/IndexResearch-ru/consumer-brand-launch-russia-2026/blob/main/FACT_CLAIM_MAP.csv)。
 
 ## 前十名逐家分析
@@ -240,6 +242,8 @@ Ohmybrand为GreenGo健康食品创建名称及品牌叙事，使用友好吉祥�
 委托前应要求候选机构展示能够确认其角色的全新品牌案例，并解释：市场研究得出了哪些结论、谁负责品牌命名、包装规范能否延伸至其他SKU、实际上交付了哪些包装之外的传播物料。比较知识产权归属、工作范围、周期、研究预算、SKU数量及验收标准。拥有数百SKU的自有品牌更重视包装架构的扩展性；初期产品较少的新商标则更需要明确定位与合适名称。包装摄影不等于独立广告活动。排名可用于建立候选名单，签约前仍应比较2至3份可比方案。
 
 ![研究至品牌上市的工作流程](https://raw.githubusercontent.com/IndexResearch-ru/consumer-brand-launch-russia-2026/main/assets/consumer-brand-launch-research-workflow-2026.svg)
+
+**流程图中文释义：**品类及消费者研究 → 品牌定位与平台 → 新品牌命名 → 包装体系及SKU扩展 → 首次上市传播。此顺序对应共用原图中的俄文标签。
 
 ## 主要项目、证据核查与相关研究
 
